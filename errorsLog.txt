@@ -1,0 +1,8 @@
+ INFO:root:User entered <class 'str'> datatype on: 23/05/2021 at 15:58:02
+
+INFO:root:User entered <class 'str'> datatype on: 23/05/2021 at 15:58:04
+
+INFO:root:User entered <class 'str'> datatype on: 23/05/2021 at 15:58:04
+
+INFO:root:User entered <class 'str'> datatype on: 23/05/2021 at 17:20:30
+
